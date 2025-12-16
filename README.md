@@ -22,25 +22,26 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansimaradiya8-bot&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maradiyamansi8-bot&show_icons=true&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansimaradiya8-bot&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maradiyamansi8-bot&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
 ### 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimaradiya8-bot&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maradiyamansi8-bot&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
 ### 🔗 Let’s Connect
-- 💻 GitHub: **mansimaradiya8-bot**
+- 💻 GitHub: **maradiyamansi8-bot**
 
 ---
 
 ⭐ *Learning every day, one step at a time.*
+
