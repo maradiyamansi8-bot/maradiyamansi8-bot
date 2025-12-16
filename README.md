@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">🚀 Mansi Mardiya</h1>
+<h3 align="center">🎓 Student | Aspiring Developer</h3>
 
-<!--
-**maradiyamansi8-bot/maradiyamansi8-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 I am currently a **Student**
+- 🌱 Learning **Web Development & Programming**
+- 💻 Practicing **frontend & backend technologies**
+- 🧠 Interested in **Full Stack Development**
+- 📚 Improving logic with **C, C++ & Java (Basic)**
+- ✨ Fun fact: I enjoy learning new tech step by step ☕💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,mysql,mongodb,c,cpp,java&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansimaradiya8-bot&show_icons=true&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansimaradiya8-bot&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+### 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansimaradiya8-bot&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+### 🔗 Let’s Connect
+- 💻 GitHub: **mansimaradiya8-bot**
+
+---
+
+⭐ *Learning every day, one step at a time.*
